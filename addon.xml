@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.pydocs_writer" name="PyDocs &amp; PyPredefs Writer" version="1.0.0" provider-name="nuka1195 &amp; jfcarroll">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <nochangelog>true</nochangelog>
+        <nofanart>false</nofanart>
+        <noicon>false</noicon>
+        <summary lang="en">Creates Python html help docs and PyDev Predefined Completions for XBMC Python modules.</summary>
+        <description lang="en">Creates Python html help docs and PyDev Predefined Completions for XBMC Python modules. (xbmc, xbmcaddon, xbmcgui, xbmcplugin and xbmcvfs)</description>
+        <disclaimer lang="en">Only accurate for the version of XBMC this add-on was run in.</disclaimer>
+    </extension>
+</addon>

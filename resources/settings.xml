@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+
+	<!-- General -->
+	<category label="30051" id="category_general">
+		<setting label="30100" type="lsep"/>
+		<setting label="30110" type="folder" id="doc_path" default="" source="auto" option="writeable"/>
+		<setting label="30101" type="lsep"/>
+		<setting label="30115" type="bool" id="include_pydocs" default="true" enable="!eq(-2,)"/>
+		<setting label="30120" type="bool" id="include_pypredefs" default="true" enable="!eq(-3,)"/>
+	</category>
+
+</settings>

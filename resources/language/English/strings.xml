@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+
+	<!-- addon localized title -->
+	<string id="30000">PyDocs &amp; PyPredefs Printer</string>
+	<!-- do NOT localize {addon} -->
+	<string id="30001">{addon} Package Manager</string>
+	<!-- language author (translators put your name here) -->
+	<string id="30010">nuka1195</string>
+
+	<!-- category separators -->
+	<string id="30051">General</string>
+	<string id="30052"></string>
+	<string id="30053"></string>
+	<string id="30054"></string>
+	<string id="30055"></string>
+	<string id="30056">Maintenance</string>
+
+	<!-- General -->
+	<string id="30100">Path</string>
+	<string id="30101">Documents</string>
+	<!-- settings labels & options -->
+	<string id="30110">Save docs to</string>
+	<string id="30115">Print HTML PyDocs</string>
+	<string id="30120">Print PyDev Predefined Completions</string>
+
+	<!-- Maintenance -->
+	<string id="30600">Information</string>
+	<string id="30601">Utilities</string>
+	<!-- settings labels & options -->
+	<string id="30610">View changelog</string>
+	<string id="30615">View readme</string>
+	<string id="30620">View license</string>
+	<string id="30625">View properties</string>
+	<string id="30650">Check for updates</string>
+
+	<!-- universal strings -->
+	<!-- compatible messages -->
+	<!-- do NOT localize {version!s} {msg} {file} {addon} {function} -->
+	<string id="30700">You&apos;re currently running version {version!s}.</string>
+	<string id="30701">Your version is up to date.</string>
+	<string id="30702">An updated version {version!s} is available.</string>
+	<!-- messages -->
+	<string id="30710">Downloading: {msg}</string>
+	<string id="30711">Saving: {msg}</string>
+	<string id="30712">To: {msg}</string>
+	<string id="30713">Copying: {msg}</string>
+	<string id="30714">Extracting: {msg}</string>
+	<string id="30715">B</string>
+	<string id="30716">KB</string>
+	<string id="30717">MB</string>
+	<string id="30718">of</string>
+	<string id="30719">at</string>
+	<string id="30720">ETA</string>
+	<string id="30721">min</string>
+	<string id="30722">B/s</string>
+	<string id="30723">KB/s</string>
+	<string id="30724">MB/s</string>
+	<!-- search terms -->
+	<string id="30730">Search</string>
+	<string id="30731">Enter keywords/phrase to search for...</string>
+	<string id="30735">Browse for install path</string>
+	<string id="30736">Reset controls to previous values?</string>
+	<string id="30737">Reset controls to default values?</string>
+	<!-- button labels -->
+	<string id="30740">Reset</string>
+	<string id="30741">Previous</string>
+	<string id="30742">Default</string>
+	<string id="30745">Open</string>
+	<string id="30746">Save</string>
+	<!-- credits titles -->
+	<string id="30750">Author</string>
+	<string id="30751">Version</string>
+	<string id="30752">Repository</string>
+	<string id="30753">Branch</string>
+	<string id="30754">Language Translation</string>
+	<string id="30755">Icon by</string>
+	<string id="30759">Updated</string>
+	<!-- viewer messages -->
+	<string id="30760">Checking for updates, please wait...</string>
+	<string id="30761">Fetching changelog, please wait...</string>
+	<string id="30762">Fetching readme, please wait...</string>
+	<string id="30763">Fetching license, please wait...</string>
+	<string id="30764">Fetching window properties, please wait...</string>
+	<string id="30765">Updates</string>
+	<string id="30766">Changelog</string>
+	<string id="30767">Readme</string>
+	<string id="30768">License</string>
+	<string id="30769">Properties</string>
+	<string id="30770">An error occurred checking for updates!</string>
+	<string id="30771">An error occurred fetching {function}!</string>
+    <!-- package manager messages -->
+	<string id="30780">{package} successfully installed.</string>
+	<string id="30781">An error occurred extracting &apos;{file}&apos;</string>
+	<string id="30782">An error occurred downloading &apos;{file}&apos;</string>
+	<string id="30783">An error occurred saving &apos;{file}&apos;</string>
+	<string id="30784">Installing &apos;{addon}&apos; cancelled!</string>
+	<string id="30788">Failed install</string>
+	<string id="30789">Installed</string>
+
+</strings>
